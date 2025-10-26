@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "echo",
-  "author": ["Damon Zaeske"],
+  "author": "Damon Zaeske",
   "website": "https://zaeske.us/",
   "model": "echo.tflite",
   "trained_languages": ["en"],
