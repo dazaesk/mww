@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "echo",
+  "wake_word": "Echo",
   "author": "Damon Zaeske",
   "website": "https://zaeske.us/",
   "model": "echo.tflite",
