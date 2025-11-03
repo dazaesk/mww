@@ -2,14 +2,15 @@
   "type": "micro",
   "wake_word": "Echo",
   "author": "Damon Zaeske",
-  "website": "https://zaeske.us/",
   "model": "echo.tflite",
-  "trained_languages": ["en"],
-  "version": 3,
+  "trained_languages": [
+    "en"
+  ],
+  "version": 2,
   "micro": {
-    "probability_cutoff": 0.20,
-    "feature_step_size": 10,
+    "probability_cutoff": 0.97,
     "sliding_window_size": 5,
+    "feature_step_size": 10,
     "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
