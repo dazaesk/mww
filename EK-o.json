@@ -1,8 +1,7 @@
 {
   "type": "micro",
-  "wake_word": "EK-o",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
+  "wake_word": "Echo",
+  "author": "Damon Zaeske",
   "model": "EK-o.tflite",
   "trained_languages": [
     "en"
